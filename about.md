@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+eu assito dragon ball e o goku eh god
 
 ### More Information
 
